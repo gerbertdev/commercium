@@ -1,0 +1,16 @@
+[
+{
+  "modid": "commercium",
+  "name": "Commercium",
+  "description": "Simple Server Economy.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Gerbertdev"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
